@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvpdate",
+        "uuid": 352583,
+        "checksum": "tgya6x"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
